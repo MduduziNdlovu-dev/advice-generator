@@ -40,7 +40,7 @@ Your mission, should you choose to accept it (which I already did), was to build
 ### 🔗 Links
 
 - **Solution URL:** [Click here!](https://github.com/MduduziNdlovu-dev/advice-generator)
-- **Live Site:** [Check it out!](https://your-live-site-url.com)
+- **Live Site:** [Check it out!](https://advice-generator-seven-gamma.vercel.app)
 
 ---
 
