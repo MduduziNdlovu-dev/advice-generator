@@ -80,8 +80,6 @@ const fetchAdvice = async () => {
 
 Going forward, I’d love to:
 
-- Add animations for that extra ✨wow✨ factor.
-- Implement local storage so users can save their favorite advice pieces.
 - Maybe even turn this into an *Advice-a-Day* widget for my future projects!
 
 ### 📚 Useful Resources
